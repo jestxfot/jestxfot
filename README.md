@@ -1,4 +1,4 @@
-## [Fnaf Security Breach](https://github.com/jestxfot/fnafsecuritybreach)
+## [Fnaf Security Breach WIKI](https://github.com/jestxfot/fnafsecuritybreach) | [Minecraft Server WIKI](https://github.com/jestxfot/minecraft_server)
 
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
