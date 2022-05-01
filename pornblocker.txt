@@ -6,3 +6,7 @@ www.rt.pornhub.com
 www.*rt.pornhub.com
 www.*.pornhub.com
 www.pornhub.com
+xvideos.com
+*.xvideos.com
+www.xvideos.com
+www.*.xvideos.com
