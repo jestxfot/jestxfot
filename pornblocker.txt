@@ -54,3 +54,8 @@ www.s409.sexdesant.com
 https-xvideos.com
 *.https-xvideos.com
 *.*xvideos*.*
+*.*xvideos*.*
+*.*porn*.*
+xvideos-xxxx.com
+*.xvideos-xxxx.com
+www.xvideos-xxxx.com
