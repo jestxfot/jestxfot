@@ -1,0 +1,8 @@
+rt.pornhub.com
+*rt.pornhub.com
+*.pornhub.com
+pornhub.com
+www.rt.pornhub.com
+www.*rt.pornhub.com
+www.*.pornhub.com
+www.pornhub.com
