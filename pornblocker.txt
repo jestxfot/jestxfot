@@ -10,3 +10,5 @@ xvideos.com
 *.xvideos.com
 www.xvideos.com
 www.*.xvideos.com
+www.xnxx.com
+*.xnxx.com
