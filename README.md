@@ -1,4 +1,8 @@
-### [🐻 Fnaf Security Breach WIKI](https://github.com/jestxfot/fnafsecuritybreach) ≀ [📸 Video Archive](https://github.com/jestxfot/video) ≀ [🌎 Minecraft Server WIKI](https://github.com/jestxfot/minecraft_server) ≀ [🤖 Android WIKI](https://github.com/jestxfot/jestxfot/blob/main/android.md)
+### [🐻 Fnaf Security Breach WIKI](https://github.com/jestxfot/fnafsecuritybreach)
+### [📸 Video Archive](https://github.com/jestxfot/video)
+### [Awesome Windows 11](https://github.com/awesome-windows11)
+### [🌎 Minecraft Server WIKI](https://github.com/jestxfot/minecraft_server)
+### [🤖 Android WIKI](https://github.com/jestxfot/jestxfot/blob/main/android.md)
 
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
