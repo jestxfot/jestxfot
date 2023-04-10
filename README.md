@@ -3,7 +3,7 @@
 ### [Awesome Windows 11](https://github.com/awesome-windows11)
 ### [💭 Psychology](https://github.com/jestxfot/psychology)
 ### [🌎 Minecraft Server WIKI](https://github.com/jestxfot/minecraft_server)
-### [🤖 Android WIKI](https://github.com/jestxfot/jestxfot/blob/main/android.md)
+### [🕵️‍ CensorNet](https://github.com/awesome-windows11/CensorNet)
 
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
