@@ -11,4 +11,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jestxfot&show_icons=true&show=reviews,discussions_started,discussions_answered)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jestxfot)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jestxfot&size_weight=1&count_weight=0&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
